@@ -1,0 +1,12 @@
+{
+  "name": "quiz-master",
+  "version": "1.0.0",
+  "description": "An interactive quiz game with 100 questions",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+} 
